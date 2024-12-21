@@ -1,15 +1,13 @@
 <h1 align="center">hey! im omarplayz.</h1>
 <h3 align="center">just a chill guy that doesn't nothing but to game and code</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=omarplayz233" alt="omarplayz233" /></a> </p>
-
 - 🔭 currently working on **project jam**
 
-- 📝 I regularly write articles on [https://omarplayz.eu.org/blog](https://omarplayz.eu.org/blog)
+- 📝 i regularly write articles on [https://omarplayz.eu.org/blog](https://omarplayz.eu.org/blog)
 
-- 📫 How to reach me **hi@dev.omarplayz.eu.org**
+- 📫 contact me **hi@dev.omarplayz.eu.org**
 
-- ⚡ Fun fact **im diabetic**
+- ⚡ fun fact: **im diabetic**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
