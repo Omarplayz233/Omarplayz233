@@ -1,5 +1,5 @@
 <h1 align="center">hey! im omarplayz.</h1>
-<h3 align="center">just a chill guy that doesn't nothing but to game and code</h3>
+<h3 align="center">just a chill guy that does nothing but to game and code</h3>
 
 - 🔭 currently working on **project jam**
 
